@@ -1,0 +1,33 @@
+.homepage {
+  font-family: Marker Felt, fantasy;
+  text-align: center;
+}
+
+.header {
+  color: white;
+  font-size: 30px;
+  background-color: palevioletred;
+}
+
+.question {
+  font-size: 40px;
+}
+
+.button {
+  background-color: white;
+}
+.button:hover {
+  background-color: lightpink;
+}
+
+.popup {
+  background-color: antiquewhite;
+}
+
+.popup-content {
+  color: lightsalmon;
+}
+
+.popupNo {
+  color: red;
+}
